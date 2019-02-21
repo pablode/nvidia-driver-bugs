@@ -1,0 +1,51 @@
+NVIDIA System Information report created on: 02/21/2019 12:42:11
+System name: P-ONE-WIN
+
+[Display]
+Operating System:	Windows 10 Education, 64-bit
+DirectX version:	12.0
+GPU processor:		GeForce GTX 1060 3GB
+Driver version:		418.91
+Driver Type:		Standard
+Direct3D API version:	12
+Direct3D feature level:	12_1
+CUDA Cores:		1152
+Core clock:		1569 MHz
+Memory data rate:	8.01 Gbps
+Memory interface:	192-bit
+Memory bandwidth:	192.19 GB/s
+Total available graphics memory:	11224 MB
+Dedicated video memory:	3072 MB GDDR5
+System video memory:	0 MB
+Shared system memory:	8152 MB
+Video BIOS version:	86.06.59.00.1C
+IRQ:			Not used
+Bus:			PCI Express x16 Gen3
+Device Id:		10DE 1C02 32851462
+Part Number:		G410 0020
+
+[Components]
+
+nvui.dll		8.17.14.1891		NVIDIA User Experience Driver Component
+nvxdplcy.dll		8.17.14.1891		NVIDIA User Experience Driver Component
+nvxdbat.dll		8.17.14.1891		NVIDIA User Experience Driver Component
+nvxdapix.dll		8.17.14.1891		NVIDIA User Experience Driver Component
+NVCPL.DLL		8.17.14.1891		NVIDIA User Experience Driver Component
+nvCplUIR.dll		8.1.940.0		NVIDIA Control Panel
+nvCplUI.exe		8.1.940.0		NVIDIA Control Panel
+nvWSSR.dll		25.21.14.1891		NVIDIA Workstation Server
+nvWSS.dll		25.21.14.1891		NVIDIA Workstation Server
+nvViTvSR.dll		25.21.14.1891		NVIDIA Video Server
+nvViTvS.dll		25.21.14.1891		NVIDIA Video Server
+nvLicensingS.dll		6.14.14.1891		NVIDIA Licensing Server
+NVSTVIEW.EXE		7.17.14.1891		NVIDIA 3D Vision Photo Viewer
+NVSTTEST.EXE		7.17.14.1891		NVIDIA 3D Vision Test Application
+NVSTRES.DLL		7.17.14.1891		NVIDIA 3D Vision Module
+nvDispSR.dll		25.21.14.1891		NVIDIA Display Server
+NVMCTRAY.DLL		25.21.14.1891		NVIDIA Media Center Library
+nvDispS.dll		25.21.14.1891		NVIDIA Display Server
+nvDevToolS.dll		25.21.14.1891		NVIDIA 3D Settings Server
+PhysX		09.18.0907		NVIDIA PhysX
+NVCUDA.DLL		25.21.14.1891		NVIDIA CUDA 10.1.95 driver
+nvGameSR.dll		25.21.14.1891		NVIDIA 3D Settings Server
+nvGameS.dll		25.21.14.1891		NVIDIA 3D Settings Server
